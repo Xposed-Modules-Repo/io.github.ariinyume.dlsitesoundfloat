@@ -62,4 +62,4 @@
 
  提交 Issue：**<https://github.com/ariinyume/DLSiteSoundFloatingSubtitle/issues>**
 
- 许可证：GPL-3.0-only
+ 许可证：GPL-3.0-or-later
