@@ -30,7 +30,7 @@
 | **框架** | LSPosed 2.2.0+（libxposed API 102） |
 | **作用域** | 需勾选**两个**：`jp.co.eisys.dlsitesound` 与 `com.android.systemui` |
 | **Android 版本** | Android 7.0（minSdk 24）起，targetSdk 34 |
-| **机型 / ROM** | 基于 ColorOS 16 测试制作，其它 ROM 理论上可用 |
+| **机型 / ROM** | 基于 ColorOS 16/17 测试制作，其它 ROM 理论上可用 |
 
 ## 使用说明
 
@@ -58,8 +58,8 @@
 
 ## 其他
 
- 完整说明与机制细节见主仓库：**<https://github.com/ariinyume/DLSiteSoundFloatingSubtitle>**
+ 完整说明与机制细节见主仓库：**<https://github.com/ariinyume/DLsiteFloat>**
 
- 提交 Issue：**<https://github.com/ariinyume/DLSiteSoundFloatingSubtitle/issues>**
+ 提交 Issue：**<https://github.com/ariinyume/DLsiteFloat/issues>**
 
  许可证：GPL-3.0-or-later
