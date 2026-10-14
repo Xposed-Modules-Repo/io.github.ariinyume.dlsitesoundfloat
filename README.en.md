@@ -4,6 +4,8 @@
 
 **Floating window & status bar subtitles for DLsiteSound**
 
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | **English**
+
 [![GitHub release](https://img.shields.io/github/v/release/ariinyume/DLsiteFloat?style=flat-square)](https://github.com/ariinyume/DLsiteFloat/releases)
 [![GitHub downloads](https://img.shields.io/github/downloads/ariinyume/DLsiteFloat/total?style=flat-square&color=blue)](https://github.com/ariinyume/DLsiteFloat/releases)
 [![GitHub stars](https://img.shields.io/github/stars/ariinyume/DLsiteFloat?style=flat-square&color=yellow)](https://github.com/ariinyume/DLsiteFloat/stargazers)
