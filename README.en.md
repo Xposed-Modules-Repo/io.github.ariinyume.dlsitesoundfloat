@@ -22,7 +22,7 @@
 - **In-process floating window**: the window hangs directly inside the DLsiteSound process and shares the same subtitle data with every hook — no cross-process IPC and no separate Service.
 - **The floating window can be used on its own**: when the `com.android.systemui` scope is not authorized, the `Status ON / OFF` button on the left is not shown.
 - **Automatic subtitle capture**: intercepts DLsiteSound's network responses and parses the subtitle JSON — with no reliance on URL keywords.
-- **Smart track switching**: when you switch to an audio track with no subtitles, handling is suspended first and a placeholder is shown while it waits for the new track's subtitle JSON — 5 s when there is no cache, relaxed to 15 s when cached cues exist; the window can be closed early and is reopened automatically once the subtitles arrive.
+- **Smart track switching**: when you switch to an audio track with no subtitles, handling is suspended first and a placeholder is shown while it waits for the new track's subtitle JSON — 1 s when there is no cache, relaxed to 15 s when cached cues exist; the window can be closed early and is reopened automatically once the subtitles arrive.
 - **Liquid glass**: the floating window panel and the playback-page subtitle buttons can be switched to a liquid glass look — the background blur is done by the system compositor, while the glass material is drawn by the module itself.
 - **Visual settings page**: the module ships its own settings page for tuning the main subtitle / inactive lines / typography / liquid glass and more; changes take effect as soon as you tap "Save settings".
 - **Multilingual support**: the module's display language follows the **system language**, supporting **简体中文 / 繁體中文 / English**
